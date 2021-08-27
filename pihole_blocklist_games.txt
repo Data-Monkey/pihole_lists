@@ -1,0 +1,6 @@
+0.0.0.0	adinplay.com
+0.0.0.0	poki.com
+0.0.0.0	poki.io
+0.0.0.0 playfabapi.com
+0.0.0.0 meeservices.azurewebsites.net
+0.0.0.0 minecraftprod.rtep.msgamestudios.com
